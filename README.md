@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	  <img src="https://badge42.herokuapp.com/api/stats/raccoman?privacyEmail=true"/>
+	  <img src="https://badge42.herokuapp.com/api/stats/rboldini?privacyEmail=true"/>
 </p>
 <h3 align="center">
 	  CUB3D
@@ -34,14 +34,14 @@
 	Evaluation
 </h2>
 <p align="center">
-	<img src="https://badge42.herokuapp.com/api/project/raccoman/cub3d"/>
+	<img src="https://badge42.herokuapp.com/api/project/rboldini/cub3d"/>
 </p>
 
 <h2 align="center">
 	Contact
 </h2>
 <p align="center">
-	This is my cub3d project from the 42 cursus, need help: raccoman@student.42roma.it
+	This is my cub3d project from the 42 cursus, need help: rboldini@student.42roma.it
 </p>
 
 <p align="center">
